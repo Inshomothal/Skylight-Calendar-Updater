@@ -8,4 +8,4 @@ This will be a great lesson for me in learning apis and creating code through op
 This repository depends on [mightybandito's Skylight repository](https://github.com/mightybandito/Skylight).
 
 ## Documentation
-Look for it in [docs/](https://github.com/Inshomothal/Skylight-Calendar-Updater/blob/main/docs/)
+Look for it in [docs/](https://github.com/Inshomothal/Skylight-Calendar-Updater/tree/master/docs)
